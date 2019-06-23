@@ -42,7 +42,15 @@ The Four types of empty sas tables.
           Variables             1                                                       
           Indexes               0                                                       
           Observation Length    8                                                       
-          Deleted Observations  0                                                       
+          Deleted Observations  0   
+          
+       5. Exists but has 0 filesize                           
+                                                          
+          d:/sd1/zroFylSiz.sas7bdat                           
+                                                          
+          Name                Date         Type        Size   
+          zroFylSiz.sas7bdat   6/22/2019    sas7bdat     0     
+
                                                                                         
                                                                                         
     PROCESS                                                                             
