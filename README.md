@@ -61,7 +61,11 @@ The Four types of empty sas tables.
                                                                                         
        data empty_0_obs_0_variables;                                                    
        stop;                                                                            
-       run;quit;                                                                        
+       run;quit;            
+       
+       data empty_0_obs_0_variables;                                                    
+         set _null_;                                                                           
+       run;quit;            
                                                                                         
                                                                                         
     2. Completely Empty except one deleted observation more useful                      
